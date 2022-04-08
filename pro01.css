@@ -1,0 +1,40 @@
+.img{
+    margin-top: 180px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.one{
+    border-style:outset;
+    text-align: center;
+    width:25%;
+    border-radius: 10px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+.two{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+.three{
+    height:30px;
+    width:250px;
+    border-radius: 5px;
+    color: white;
+    background-color: #0165E1;
+
+}
+.four{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color:green;
+    border-radius: 5px;
+}
+.five{
+    margin-left: 240px;
+    margin-top: 0%;
+}
